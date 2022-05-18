@@ -1,0 +1,7 @@
+1. SELECT * FROM "pytania"
+2.SELECT tresc, odpa, odpb, odpc, odpd FROM "pytania"
+3 SELECT tresc ,rok FROM "pytania"
+4. SELECT * FROM "pytania" WHERE rok="2012"
+7.SELECT * FROM "pytania" WHERE kategoria="programowanie"
+8. SELECT * FROM "pytania" WHERE kategoria="programowanie" or kategoria="multimedia i grafika"
+9.SELECT * FROM "pytania" WHERE kategoria="programowanie" or rok="2012"
